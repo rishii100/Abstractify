@@ -23,7 +23,7 @@ choice = st.sidebar.selectbox("Select your choice", ["Summarize Text", "Summariz
 
 if choice == "Summarize Text":
     st.subheader("Abstractify")
-    input_text = st.text_area("Enter your text here")
+    input_text = st.text_area("Enter your articles/text to sumarize:")
     if input_text is not None:
         if st.button("Summarize Text"):
             col1, col2 = st.columns([1,1])
