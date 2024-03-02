@@ -46,6 +46,3 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You may need to adjust the installation instructions or dependencies section based on your actual project structure and requirements. Also, make sure to include the appropriate license file (e.g., LICENSE) in your project directory.
