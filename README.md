@@ -11,7 +11,7 @@ This is a simple Streamlit web application for text summarization using the txta
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/streamlit-text-summarization.git
+    git clone https://github.com/your-username/Abstractify.git
     ```
 
 2. Install the required dependencies:
@@ -25,7 +25,7 @@ This is a simple Streamlit web application for text summarization using the txta
 1. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run Abstractify.py
     ```
 
 2. Access the Streamlit app in your web browser at [http://localhost:8501](http://localhost:8501).
