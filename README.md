@@ -5,6 +5,9 @@ This is a Streamlit-based web application focused on text summarization, providi
 
 ![Architecture Design](https://github.com/rishii100/Abstractify/assets/98979613/52df446b-5f8e-4a32-82da-2d7a18bf706b)
 
+![image](https://github.com/rishii100/Abstractify/assets/98979613/4c612553-7254-4775-803a-c7d1f1f91cc3)
+
+
 ## Features
 
 - **Summarize Text**: Users can input text directly into a text area and obtain a summary of the input text.
