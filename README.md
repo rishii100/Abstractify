@@ -3,10 +3,7 @@
 This is a Streamlit-based web application focused on text summarization, providing users with a streamlined platform to generate concise summaries from either input text or uploaded PDF documents. Through a user-friendly interface accessible via web browsers, individuals can choose between two main options: "Summarize Text" or "Summarize Document." For the former, users input text directly into a provided text area, while for the latter, they upload PDF files for text extraction and summarization. Leveraging libraries such as txtai for text summarization tasks and PyPDF2 for PDF text extraction, the application processes the provided content to produce comprehensive summaries. 
 ## Architecture Design
 
-![Architecture Design](https://github.com/rishii100/Abstractify/assets/98979613/52df446b-5f8e-4a32-82da-2d7a18bf706b)
-
-![image](https://github.com/rishii100/Abstractify/assets/98979613/4c612553-7254-4775-803a-c7d1f1f91cc3)
-
+![Architecture Design](https://github.com/rishii100/Abstractify/assets/98979613/4c612553-7254-4775-803a-c7d1f1f91cc3)
 
 ## Features
 
