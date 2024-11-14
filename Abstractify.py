@@ -36,7 +36,7 @@ if choice == "Summarize Text":
                 st.success(result)
 
 elif choice == "Summarize Document":
-    st.subheader("Summarize Document using txtai")
+    st.subheader("Summarize Document")
     input_file = st.file_uploader("Upload your document here", type=['pdf'])
     if input_file is not None:
         if st.button("Summarize Document"):
