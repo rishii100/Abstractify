@@ -22,7 +22,7 @@ def extract_text_from_pdf(file_path):
 choice = st.sidebar.selectbox("Select your choice", ["Summarize Text", "Summarize Document"])
 
 if choice == "Summarize Text":
-    st.subheader("Abstractify")
+    st.subheader("Abstractify.ai")
     input_text = st.text_area("Enter your articles/text to sumarize:")
     if input_text is not None:
         if st.button("Summarize Text"):
